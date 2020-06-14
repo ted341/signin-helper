@@ -1,0 +1,11 @@
+runtime: go112
+
+vpc_access_connector:
+  name: "projects/linebot-20200427/locations/asia-east2/connectors/redis"
+
+env_variables:
+  PORT: '8080'
+  REDIS_HOST: '10.153.156.147'
+  REDIS_PORT: '6379'
+  CHANNEL_SECRET: "d25e2f05b9bb56cf7f92af8a76640a49"
+  CHANNEL_TOKEN: "65bTEma26BciNV+yuz9QDwX4llPG7WPX6T1IuuQadgfcTcx1cldymoW9woEMhNR+q5yk+hdRa0skgcVl9gFtc6qdo9ZMxFiO5c6Nc7fQYfgCMblQWk3NWVXtlGFTvFiy2KO3t1q+O3wMtj2JNzh7wQdB04t89/1O/w1cDnyilFU="

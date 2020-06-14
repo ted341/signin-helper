@@ -1,0 +1,25 @@
+cron:
+#- description: "time"
+#  url: /time
+#  schedule: every 10 mins
+#  timezone: Asia/Taipei
+#- description: "1st report"
+#  url: /report/1000
+#  schedule: every saturday 09:50
+#  timezone: Asia/Taipei
+#- description: "2nd report"
+#  url: /report/1500
+#  schedule: every saturday 14:50
+#  timezone: Asia/Taipei
+#- description: "3rd report"
+#  url: /report/1900
+#  schedule: every saturday 18:50
+#  timezone: Asia/Taipei
+- description: "4th report"
+  url: /report/1000
+  schedule: every sunday 09:50
+  timezone: Asia/Taipei
+- description: "5th report"
+  url: /final
+  schedule: every sunday 14:50
+  timezone: Asia/Taipei
