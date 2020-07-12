@@ -4,4 +4,4 @@
 - 使用GCP中的App Engine服務來做為Line官方帳號的webhook
 - 以Golang作為腳本語言搭配Line Messaging API實作linebot
 
-<img src="screenshot.jpg" />
+<img src="screenshot.JPG" />
