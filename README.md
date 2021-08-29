@@ -1,4 +1,4 @@
-# Report Assistant (linebot)
+# Sign-in Chatbot
 
 - 利用Redis作為存儲使用者資訊的資料庫
 - 使用GCP中的App Engine服務來做為Line官方帳號的webhook
